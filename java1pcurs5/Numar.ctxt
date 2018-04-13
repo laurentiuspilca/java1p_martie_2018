@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Numar
+comment1.params=
+comment1.target=void\ increment()
+comment2.params=x\ sync
+comment2.target=void\ add(int,\ boolean)
+comment3.params=
+comment3.target=int\ get()
+numComments=4

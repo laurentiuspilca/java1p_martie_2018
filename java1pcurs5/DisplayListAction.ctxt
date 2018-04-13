@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=DisplayListAction
+comment1.params=list
+comment1.target=DisplayListAction(java.util.List)
+comment2.params=
+comment2.target=void\ compute()
+numComments=3
